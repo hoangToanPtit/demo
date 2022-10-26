@@ -6,6 +6,9 @@ public class Dog{
 		
 	}
 	public eat(){
+
+	}
+	public soudn(){
 		
 	}
 }
