@@ -4,4 +4,7 @@ publiic class Cat{
 	public Cat(){
 
 	}
+	public void eat(Mouse mouse){
+
+	}
 }
